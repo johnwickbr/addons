@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+		<Item>
+      <modelName>bulletgt</modelName>
+      <colors>
+        <Item>
+          <indices>
+            <Item value="15" />
+            <Item value="118" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+					<indices>
+            <Item value="2" />
+            <Item value="30" />
+            <Item value="3" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="112" />
+            <Item value="0" />
+            <Item value="0" />
+            <Item value="0" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="30" />
+            <Item value="46" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="126" />
+            <Item value="126" />
+            <Item value="0" />
+            <Item value="0" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="53" />
+            <Item value="38" />
+            <Item value="3" />
+            <Item value="156" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="63" />
+            <Item value="9" />
+            <Item value="67" />
+            <Item value="0" />
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices>
+            <Item value="72" />
+            <Item value="71" />
+            <Item value="4" />
+            <Item value="112" />
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>606_bulletgt_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>standard white</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="62" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
